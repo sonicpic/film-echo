@@ -1,0 +1,4 @@
+interface:
+  display_name: "Film Echo"
+  short_description: "Turn film notes into a detail-driven first-person review"
+  default_prompt: "Use $film-echo in strict research-first interview mode: if browse or search tools are available and my input is only a title or thin reaction, you must run a compact search pass first, build a research pack silently, do not begin with your own interpretation, start the first visible reply with one bounded recall question from my viewing memory or confusion, and only use $humanizer-zh after the final draft revision if it is available."
